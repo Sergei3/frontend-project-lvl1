@@ -6,3 +6,4 @@
 [![Actions Status](https://github.com/Sergei3/frontend-project-lvl1/workflows/Linter/badge.svg)](https://github.com/Sergei3/frontend-project-lvl1/actions)
 
 brain-even - https://asciinema.org/a/I75wpjcJBNWW2AnDE3pWKFs35
+brain-calc - https://asciinema.org/a/SXIG0rb5cTmTGXuhwvxLA0IfX
